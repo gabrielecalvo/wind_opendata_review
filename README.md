@@ -1,35 +1,20 @@
 # Wind OpenData Review
-An attempt to summarize and review the freely available wind energy datasets available online
+An attempt to summarize and review freely available wind energy datasets available online
 
 
 ## Measured Data
-### Engie Opendata
-Description: Nacelle Wind Data and Power Data from *La Haute Borne* windfarm from 2012
-Link: https://opendata-renewables.engie.com/pages/home/
-licence: https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf
+#### [Engie Opendata](https://opendata-renewables.engie.com/pages/home/)
+Nacelle Wind Data and Power Data from *La Haute Borne* windfarm from 2012. [Licence](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
 
-### Atmosphere to Electrons Datasets
-Description:
-Link: https://a2e.energy.gov/data
-Licence:
-
+#### [Atmosphere to Electrons Datasets](https://a2e.energy.gov/data)
+Portal with data from multiple US DOE [projects](https://a2e.energy.gov/projects).
 
 ## Reanalysis Data
-### ECMWF datasets
-Description:
-Link: https://www.ecmwf.int/en/forecasts/datasets/browse-reanalysis-datasets
-Licence:
+#### [ECMWF datasets](https://www.ecmwf.int/en/forecasts/datasets/browse-reanalysis-datasets)
 
-### MERRA 2
-Description:
-Link: https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/
-Licence:
+#### [MERRA 2](https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/)
 
-### ...
-Description:
-Link: 
-Licence:
-
+#### ...
 
 
 ## Other Interesting stuff
