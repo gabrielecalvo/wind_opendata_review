@@ -5,6 +5,9 @@ This is a compiled list of freely available wind data sources available online.
 #### [Atmosphere to Electrons Datasets](https://a2e.energy.gov/data)
 Portal with data from multiple US DOE [projects](https://a2e.energy.gov/projects).
 
+#### [National Centers for Environmental Information (NCEI)](https://www.ncei.noaa.gov/)
+NCEI (formerly NCDC) offers different climate and weather datasets ([quicklink](https://www.ncdc.noaa.gov/data-access/quick-links)) including Integrated Surface Database (ISD): global hourly and synoptic observations compiled from numerous sources ([ftp](ftp://ftp.ncdc.noaa.gov/pub/data/noaa))
+
 #### [Deutscher Wetterdienst](https://www.dwd.de/EN/ourservices/cdcftp/cdcftp.html)
 Climate data of the DWD Climate Data Center (CDC) at hourly, daily, monthly, annual or multi-annual resolution. [Manual](ftp://ftp-cdc.dwd.de/pub/CDC/Readme_intro_CDC_ftp.pdf).
 
@@ -17,9 +20,6 @@ Including ERA5 reanalysis from satellite data (RTTOV-11).
 
 #### [MERRA 2](https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/)
 MERRA is a NASA reanalysis from satellite data (GEOS-5). 
-
-#### [National Centers for Environmental Information (NCEI)](https://www.ncei.noaa.gov/)
-NCEI (formerly NCDC) offers different climate and weather datasets ([quicklink](https://www.ncdc.noaa.gov/data-access/quick-links)) including Integrated Surface Database (ISD): global hourly and synoptic observations compiled from numerous sources ([ftp](ftp://ftp.ncdc.noaa.gov/pub/data/noaa))
 
 ## Government Open Data Platforms
 #### [EU Open Data](https://www.europeandataportal.eu/data)
