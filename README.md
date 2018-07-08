@@ -1,6 +1,5 @@
 # Wind OpenData Review
-List openly available wind data sources available online
-
+This is a compiled list of freely available wind data sources available online.
 
 ## Measured Data
 #### [Atmosphere to Electrons Datasets](https://a2e.energy.gov/data)
